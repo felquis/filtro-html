@@ -1,0 +1,26 @@
+{
+  "name": "filtro-html",
+  "description": "Filtro returns the HTML of an URL",
+  "version": "0.0.1",
+  "homepage": "http://github.com/felquis/filtro-html",
+  "author": {
+    "name": "Ofelquis Gimenes",
+    "email": "frgformenton@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/felquis/filtro-html"
+  },
+  "main": "./bin/filtro.js",
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "dependencies": {},
+  "keywords": [
+    "url",
+    "html",
+    "get",
+    "jquery",
+    "filtro"
+  ]
+}
